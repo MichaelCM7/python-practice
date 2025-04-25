@@ -1,3 +1,2 @@
 ﻿# python-practice
-Michael Chege Mbugua
-189977
+189977 - Michael Chege Mbugua
