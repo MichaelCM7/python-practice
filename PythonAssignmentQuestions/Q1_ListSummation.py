@@ -1,6 +1,6 @@
 numberList = [1,2,3,4,5,6,7,8,9,10]
 
-def listSummation(list_of_numbers):
+def list_summation(list_of_numbers):
     sum = 0
 
     for number in numberList:
@@ -8,4 +8,4 @@ def listSummation(list_of_numbers):
 
     print(f"Sum : {sum}")
 
-listSummation(numberList)
+list_summation(numberList)

@@ -1,7 +1,7 @@
 num1 = 14
 num2 = 15
 
-def evenOrOddChecker(number):
+def even_or_odd_checker(number):
     if isinstance(number,float):
         print("Invalid Entry! Even and Odd only applies to Integers")
     else:
@@ -11,5 +11,5 @@ def evenOrOddChecker(number):
         else:
             print(f"The number {number} is even")
 
-evenOrOddChecker(num1)
-evenOrOddChecker(num2)
+even_or_odd_checker(num1)
+even_or_odd_checker(num2)
