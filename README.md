@@ -1,2 +1,2 @@
-﻿# python-practice
-189977 - Michael Chege Mbugua
+﻿# Python Practice
+## 189977 - Michael Chege Mbugua
