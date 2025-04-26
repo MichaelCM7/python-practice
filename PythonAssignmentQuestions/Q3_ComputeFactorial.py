@@ -20,23 +20,3 @@ def compute_factorial(number):
 
 #Calls the function
 compute_factorial(num)
-
-"""
-#Using Lists
-
-def compute_factorial(number):
-    factors = []
-    factorial_result = 1
-    while number > 0:
-        result = number
-        number -= 1
-        factors.append(result)
-        
-    print(f"Factors : {factors}")
-
-    for factor in factors:
-        factorial_result *= factor
-
-    print(factorial_result)
-"""
-

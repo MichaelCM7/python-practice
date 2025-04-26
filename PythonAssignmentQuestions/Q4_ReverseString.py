@@ -27,13 +27,3 @@ def reverse_string(string):
 #Calling the function
 reverse_string(test_string_1)
 reverse_string(test_string_2)
-
-"""
-#Explore More Efficient -v Later 
-
-def reverse_string(string):
-    reversed_list = []
-    for i in range(len(string) - 1, -1, -1):
-        reversed_list.append(string[i])
-    print("".join(reversed_list))
-"""
