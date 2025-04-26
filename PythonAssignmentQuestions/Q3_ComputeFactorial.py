@@ -11,7 +11,7 @@ def compute_factorial(number):
 compute_factorial(num)
 
 """
-#Basic 
+#Lists Factors
 
 def compute_factorial(number):
     factors = []
@@ -20,7 +20,8 @@ def compute_factorial(number):
         result = number
         number -= 1
         factors.append(result)
-        print(f"Result: {result} | Factors : {factors}")
+        
+    print(f"Factors : {factors}")
 
     for factor in factors:
         factorial_result *= factor
